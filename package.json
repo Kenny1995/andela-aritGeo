@@ -1,0 +1,26 @@
+{
+  "name": "testonarray",
+  "version": "1.0.0",
+  "description": "test on array",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "TDD",
+    "Javascript"
+  ],
+  "author": "Kenneth Aladi",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
